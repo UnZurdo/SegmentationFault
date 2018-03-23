@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main(){
+void calcular(){
 	char* p;
 	char a = 'a';
 	p = &a+11111;
